@@ -1,4 +1,4 @@
-This program is a five in a row game written in Java.  
+This program is a five in a row game written in Java....
 
 support online five-in-a-row game.  
 support mutiple users watch a live game.  
