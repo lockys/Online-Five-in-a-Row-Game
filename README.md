@@ -12,8 +12,6 @@ Thanks for that author!
 
 Contributors
 ==
-- [lockys](https://github.com/lockys)
-- [Ken Chang](https://github.com/a3900656)
-- funboy
+funboy, [Ken Chang](https://github.com/a3900656), [lockys](https://github.com/lockys)
 
 
